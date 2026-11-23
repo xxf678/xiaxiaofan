@@ -1,0 +1,6 @@
+﻿metric,year,bin_label,value,unit
+commute_distance,2011,0–5,21,percent
+commute_distance,2011,5–10,20,percent
+commute_distance,2011,10–15,19,percent
+commute_distance,2011,15–20,10,percent
+commute_distance,2011,20–25,30,percent
