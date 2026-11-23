@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="400" viewBox="0 0 850 400" role="img" aria-labelledby="title desc">
+  <title id="title">信息设计关键词词云</title>
+  <desc id="desc">信息 8 次，数据 6 次，编码 5 次，叙事 4 次，图例 3 次，比较 3 次，结构 3 次，色彩 3 次。字号为 28 加 7 乘词频。</desc>
+  <rect width="850" height="400" rx="18" fill="#f3f7f4"/>
+  <g font-family="'Noto Sans CJK SC', 'Microsoft YaHei', 'PingFang SC', sans-serif">
+    <text x="42" y="53" font-size="25" font-weight="700" fill="#213934">信息设计关键词</text>
+    <path d="M42 72H808" stroke="#a9bbb0"/>
+    <g text-anchor="middle" font-weight="700">
+      <text x="425" y="226" font-size="84" fill="#175b52">信息</text>
+      <text x="599" y="152" font-size="70" fill="#276b65">数据</text>
+      <text x="274" y="147" font-size="63" fill="#214e72">编码</text>
+      <text x="599" y="271" font-size="56" fill="#395b86">叙事</text>
+      <text x="280" y="291" font-size="49" fill="#457965">图例</text>
+      <text x="224" y="221" font-size="49" fill="#596f68">比较</text>
+      <text x="455" y="312" font-size="49" fill="#395b86">结构</text>
+      <text x="426" y="123" font-size="49" fill="#417c72">色彩</text>
+    </g>
+    <text x="42" y="369" font-size="16" fill="#455950">教学示例 · 35 个词次 · 字号随频次增加</text>
+  </g>
+</svg>
