@@ -25,14 +25,9 @@
 - [录入与回写规范](02-信息图形类型案例/案例录入与知识回写规范.md)
 - [更新记录](更新记录.md)
 
-## 图表工具研究
+## 专题与项目
 
-- [03｜RAWGraphs 源码与图表风格研究](03-RAWGraphs源码与图表风格研究/README.md)
-
-## 设计项目
-
-- [05｜XXX主题信息图形设计](05-XXX主题信息图形设计/README.md)
-
-## 设计原则
-
-- [04｜Gestalt 格式塔设计原则](04-Gestalt格式塔设计原则/README.md)
+- [03｜ISOTYPE 信息图](03-ISOTYPE信息图/README.md)
+- [04｜RAWGraphs 源码与图表风格研究](04-RAWGraphs源码与图表风格研究/README.md)
+- [05｜Gestalt 格式塔设计原则](05-Gestalt格式塔设计原则/README.md)
+- [06｜XXX 主题信息图形设计](06-XXX主题信息图形设计/README.md)
